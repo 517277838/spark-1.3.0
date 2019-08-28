@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestSerDe1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sql/hive/target/scala-2.10/test-classes/data/files/TestSerDe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
